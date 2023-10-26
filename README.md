@@ -1,2 +1,2 @@
 # portfolio
-My portfolio website created using  bootstrap and js.
+This is my responsive portfolio website created using css and bootstrap
